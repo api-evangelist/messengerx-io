@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://messengerx.rtfd.io
 common:
+  - type: VulnerabilityDisclosure
+    url: security/messengerx-io-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/messengerx-io-domain-security.yml
   - type: Website
     url: https://messengerx.rtfd.io
   - type: PublicAPIsListing
