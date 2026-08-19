@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/messengerx
 name: MessengerX.io
 description: "A FREE API for developers to build and monetize personalized ML based chat apps"
 url: https://messengerx.rtfd.io
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
