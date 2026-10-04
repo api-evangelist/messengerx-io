@@ -35,20 +35,21 @@ x-category: "Machine Learning"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Machine-Learning
+  - Machine Learning
   - Public APIs
 tags_raw:
   - Machine Learning
   - Public APIs
+  - Machine-Learning
 apis:
   - name: MessengerX.io
     description: "A FREE API for developers to build and monetize personalized ML based chat apps"
     humanURL: https://messengerx.rtfd.io
-    baseURL: https://messengerx.rtfd.io
     tags:
-      - Machine-Learning
+      - Machine Learning
     tags_raw:
       - Machine Learning
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://messengerx.rtfd.io
